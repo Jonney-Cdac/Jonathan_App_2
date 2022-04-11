@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #edffff;
+  background-image: linear-gradient(
+      rgba(237, 255, 255, 0.8),
+      rgba(237, 255, 255, 0.8)
+    ),
+    url("https://uploads.codesandbox.io/uploads/user/88d51f92-e203-476c-bc05-b6df1f8bfe89/GhFm-india.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+}

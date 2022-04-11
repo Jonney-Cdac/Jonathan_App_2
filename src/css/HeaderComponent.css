@@ -1,0 +1,23 @@
+.unordered {
+  float: right;
+}
+.unordered button {
+  margin: 2px;
+  margin-right: 20px;
+}
+#right-btn {
+  width: 100px;
+  font-weight: bold;
+}
+#right-btn:hover {
+  color: black;
+  background-color: white;
+}
+.nav-item:hover {
+  background-color: white;
+  border-radius: 5px;
+}
+#date {
+  color: white;
+  margin-left: 220px;
+}

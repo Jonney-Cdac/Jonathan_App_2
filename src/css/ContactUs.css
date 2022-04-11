@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+#entire-left-side {
+  font-family: "Poppins", sans-serif;
+}
+#column-12 {
+  display: flex;
+}
+#left-heading {
+  font-weight: bold;
+  margin: 80px 0px 20px 0px;
+}
+#contact-us-img {
+  width: 400px;
+  height: 250px;
+  float: right;
+}
+.card-body {
+  background-color: #109079;
+  width: 50%;
+  opacity: 0.8;
+  align-items: center;
+  margin: 0 auto 30px auto;
+}
+#entire-left-card {
+  margin: auto;
+}
+#entire-right-card {
+  margin: auto;
+}
+/* #entire-left-card :hover {
+  transform: scale(1.05);
+} */
+
+.card-body h5 {
+  color: black;
+  font-weight: bold;
+}
+.card-text {
+  color: black;
+  font-weight: 200;
+}
+.card-text1 {
+  color: black;
+  font-weight: bold;
+}
+.card-text-box {
+  border: 1px solid white;
+}
+h5 {
+  text-decoration: underline;
+}
+a {
+  color: white;
+  font-weight: bold;
+}
+a:hover {
+  color: white;
+}
